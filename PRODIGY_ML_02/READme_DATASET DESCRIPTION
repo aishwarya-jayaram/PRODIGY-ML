@@ -1,1 +1,5 @@
+This dataset is designed for educational purposes to explore customer segmentation concepts using the KMeans Clustering Algorithm, also known as market basket analysis. The scenario involves owning a supermarket mall with customer data such as Customer ID, age, gender, annual income, and spending score derived from customer behavior and purchase data.
+The objective is to identify target customers who are easily approachable for marketing strategies to provide valuable insights to the marketing team for strategic planning. The dataset is sourced from Udemy's Machine Learning A-Z course, and the project aims to demonstrate customer segmentation using KMeans Clustering in Python in a straightforward manner.
+The inspiration behind this case study is to share knowledge with others in the data science field, particularly focusing on achieving customer segmentation, identifying target customers for marketing strategies, and understanding the practical implementation of marketing strategies in the real world.
+
 
