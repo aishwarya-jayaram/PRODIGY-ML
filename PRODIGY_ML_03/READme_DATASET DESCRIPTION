@@ -1,1 +1,8 @@
+This repository presents a machine learning model specifically crafted for classifying images of cats and dogs. The core of the project utilizes the VGG16 convolutional neural network, pretrained on ImageNet, to extract robust and high-level features from input images. These extracted features are then fed into a Support Vector Machine (SVM) classifier, which effectively distinguishes between 'cat' and 'dog' categories. A Graphical User Interface (GUI) powered by Tkinter simplifies the process of uploading images and receiving real-time predictions, enhancing user interaction and usability. The model was trained on a comprehensive training dataset consisting of 25,000 images of cats and dogs, with separate testing data provided for evaluation and prediction purposes.
+
+
+
+
+
+
 
